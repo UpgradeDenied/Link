@@ -7,3 +7,4 @@ Get on googol
 [Teams](https://teams.microsoft.com/_?culture=en-gb&country=gb)
 [Camera](camera://)
 [App Store](itms-apps://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?media=software&term=games)
+[test](https://www.onemole.com/tools/ios-vpn-profile-generator.php?profile=vpn&download=1&pid=6ffca0de90b001e17580141d)
